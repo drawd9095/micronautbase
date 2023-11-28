@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: pe.com.bn.ms
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, cache-ehcache, data, data-jpa, elasticsearch, http-client, jackson-databind, java, java-application, jdbc-hikari, jetty-server, junit, logback, lombok, management, maven, micronaut-validation, openapi, oracle, rabbitmq, readme, shade, swagger-ui, test-resources, yaml]
